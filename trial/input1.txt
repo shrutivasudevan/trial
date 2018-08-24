@@ -1,1 +1,5 @@
 this is the first line
+<<<<<<< HEAD
+=======
+and the second line
+>>>>>>> 6cda1055a961926345360f2758ab6c3bbb6cd391
